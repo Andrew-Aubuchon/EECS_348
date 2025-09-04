@@ -1,1 +1,4 @@
-Add hello-world program
+int main(){
+  printf("hello world");
+  Return 0
+}
